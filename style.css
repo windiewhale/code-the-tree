@@ -1,0 +1,25 @@
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+body{
+    background-color: green;
+    padding: 0;
+    margin: 0;
+}
+section{
+    display: flex;
+    justify-content: right;
+    align-items: stretch;
+    width: 100%;
+    height: 100vh;
+    background-color: greenyellow;
+    color: darkred;
+}
+h1{
+    font-size: larger;
+    text-align: center;
+}
+h2{
+    font-size: medium;
+    text-align: center;
+}
